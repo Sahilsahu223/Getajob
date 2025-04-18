@@ -1,9 +1,5 @@
-Here's a GitHub repository README for your **GetAjob** project:  
-
----
 
 # GetAjob  
-
 A full-stack job portal application built using **Java Spring Boot** and **MongoDB** for the backend and **React** for the frontend. This project follows a tutorial by **Telusko** and serves as a learning experience for full-stack development.  
 
 ## 🛠 Tech Stack  
@@ -47,7 +43,3 @@ A full-stack job portal application built using **Java Spring Boot** and **Mongo
 
 ## 📖 Credits  
 This project is based on a **Telusko tutorial** on full-stack development.  
-
----
-
-Let me know if you need additional details! 🚀
